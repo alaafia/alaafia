@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 I am Aicha Laafia ,
 </br>
-As a Software Engineering Student at ENSA KHOURIBGA, I am looking for a graduation internship in the Full stack Java Web development starting from February 2022.
-
-I am also Highly involved in Organizing events,Volunteering and Social work.
+A Software Engineering Student at ENSA KHOURIBGA.
+Also Highly involved in Organizing events,Volunteering and Social work.
 
 ### You can contact me here
 <a href="https://twitter.com/AichaLaafia">
