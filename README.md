@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am Aicha Laafia ,
 </br>
-A Software Engineering Student at ENSA KHOURIBGA.
+🔭 I’m currently A full stack java intern .
 Also Highly involved in Organizing events,Volunteering and Social work.
 
 ### You can contact me here
