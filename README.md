@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am Aicha Laafia ,
 </br>
-🔭 I’m currently A full stack java intern .
+🔭 I’m currently a Java/ Sap intern .
 Also Highly involved in Organizing events,Volunteering and Social work.
 
 ### You can contact me here
