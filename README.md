@@ -37,8 +37,6 @@ Also Highly involved in Organizing events,Volunteering and Social work.
 
 
 
-📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alaafia&show_icons=true&theme=gotham" alt="alaafia" />
 
 
 
