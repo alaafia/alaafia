@@ -18,19 +18,10 @@ Here are some ideas to get you started:
 
 I am Aicha Laafia ,
 </br>
-🔭 I’m currently a Java software engineer  .
-Also Highly involved in Organizing events,Volunteering and Social work.
+🔭A Java Software Engineer with a love for coding, a taste for delicious food, and a heart for volunteering.
 
-### You can contact me here
-<a href="https://twitter.com/AichaLaafia">
-  <img align="left" alt="Aicha Laafia | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aicha-laafia-0266a6126/">
-  <img align="left" alt="Aicha Laafia LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://aichalaafia.me/">:computer:
-</a>
-
+### You can contact me here ⏬
+https://linktr.ee/laafia
 
 </br>
 </br>
